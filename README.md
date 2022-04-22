@@ -1,8 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# CCE-Club
+______________________
 
+**Todo**:
+1. `UI/UX design`[https://www.figma.com/file/WLbY9MKIuiQw2LaH4BNdaE/CCE-Club-Website-Design?node-id=0%3A1]
+2. Landing page design
+3. About page containing info about dept and club
+4. Gallery to showcase images
+5. teachers info
+6. club executive's info
+7. social media info about club and dept
+
+
+
+**Future Todos**
+1. create contest manager with hackerrank API
+2. 
+...
+
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 ## Getting Started
 
-First, run the development server:
+## Set The repo on  your desktop 
+Go to the Root and run 
+```bash
+npm i
+# or
+yarn
+```
+
+then run the development server:
 
 ```bash
 npm run dev
